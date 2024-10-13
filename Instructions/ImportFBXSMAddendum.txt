@@ -1,0 +1,4 @@
+Blender (4.2.2) -> Y Forward; X Right; Z Up
+Unreal Engine 5 (5.4.2) -> X Forward; Y Right; Z Up
+
+Remember to turn off Miscellaneous -> Convert Scene when importing SMs from Blender to Unreal Engine 5!
