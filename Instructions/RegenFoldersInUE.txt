@@ -1,0 +1,7 @@
+(As of Unreal Engine 5.4.2)
+
+.vs
+Binaries
+Intermediate
+Saved
+.sln
