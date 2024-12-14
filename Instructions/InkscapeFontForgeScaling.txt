@@ -1,0 +1,1 @@
+Inkscape: Object > Transform (Shift + Ctrl + M) > Scale > Width and Height set to 1000% (maybe 900%?) before exporting from .svg setup as the BobroGlyphs.svg.
