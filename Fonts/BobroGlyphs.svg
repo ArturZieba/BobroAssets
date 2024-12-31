@@ -26,8 +26,8 @@
      showguides="false"
      showgrid="true"
      inkscape:zoom="2.12"
-     inkscape:cx="1600.4717"
-     inkscape:cy="132.07547"
+     inkscape:cx="178.77358"
+     inkscape:cy="210.84906"
      inkscape:window-width="2629"
      inkscape:window-height="1368"
      inkscape:window-x="2715"
@@ -1250,5 +1250,185 @@
        id="rect2-2-7-9-1-3-8-5-4-8-1"
        style="stroke-width:0.264583"
        d="m 480.00001,31.999999 h 4 V 36 h -4 z" />
+    <path
+       id="rect2-34-8"
+       style="stroke-width:0.264583"
+       d="m 7.9999986,87.999995 h 4.0000004 v 4 H 7.9999986 Z" />
+    <path
+       id="rect2-8-1-8"
+       style="stroke-width:0.264583"
+       d="m 12,71.999999 h 4 v 4 h -4 z" />
+    <path
+       id="rect2-5-1-2"
+       style="stroke-width:0.264583"
+       d="M 16.000001,71.999999 H 20 v 4 h -3.999999 z" />
+    <path
+       id="rect2-1-3-4"
+       style="stroke-width:0.264583"
+       d="m 19.999999,87.999996 h 4 v 4 h -4 z" />
+    <path
+       id="rect2-7-8-5"
+       style="stroke-width:0.264583"
+       d="m 20,91.999996 h 3.999999 v 4 H 20 Z" />
+    <path
+       id="rect2-2-7-5"
+       style="stroke-width:0.264583"
+       d="m 7.9999996,91.999996 h 3.9999994 v 4 H 7.9999996 Z" />
+    <path
+       id="rect2-16-4-17"
+       style="stroke-width:0.264583"
+       d="m 12,83.999996 h 4 v 4 h -4 z" />
+    <path
+       id="rect2-6-2-1"
+       style="stroke-width:0.264583"
+       d="m 15.999999,83.999997 h 4 v 4 h -4 z" />
+    <path
+       id="rect2-27-7-1"
+       style="stroke-width:0.264583"
+       d="m 7.9999986,83.999996 h 3.9999994 v 4 H 7.9999986 Z" />
+    <path
+       id="rect2-3-7-5"
+       style="stroke-width:0.264583"
+       d="m 7.9999996,95.999996 h 3.9999994 v 4 H 7.9999996 Z" />
+    <path
+       id="rect2-3-7-9-2"
+       style="stroke-width:0.264583"
+       d="M 8.0000006,79.999997 H 12 v 4 H 8.0000006 Z" />
+    <path
+       id="rect2-3-7-0-7"
+       style="stroke-width:0.264583"
+       d="M 8.0000006,75.999998 H 12 v 4 H 8.0000006 Z" />
+    <path
+       id="rect2-2-7-9-8-02-1"
+       style="stroke-width:0.264583"
+       d="M 20.000001,83.999997 H 24 v 4 h -3.999999 z" />
+    <path
+       id="rect2-7-8-5-2"
+       style="stroke-width:0.264583"
+       d="m 20,95.999996 h 3.999999 v 4 H 20 Z" />
+    <path
+       id="rect2-7-8-5-8"
+       style="stroke-width:0.264583"
+       d="m 20,79.999996 h 3.999999 v 4 H 20 Z" />
+    <path
+       id="rect2-7-8-5-1"
+       style="stroke-width:0.264583"
+       d="m 20,75.999996 h 3.999999 v 4 H 20 Z" />
+    <path
+       id="rect2-34-8-3"
+       style="stroke-width:0.264583"
+       d="m 28,87.999996 h 4 v 4 h -4 z" />
+    <path
+       id="rect2-8-1-8-1"
+       style="stroke-width:0.264583"
+       d="m 27.999999,71.999998 h 4 v 4 h -4 z" />
+    <path
+       id="rect2-5-1-2-2"
+       style="stroke-width:0.264583"
+       d="m 31.999998,71.999998 h 3.999999 v 4 h -3.999999 z" />
+    <path
+       id="rect2-1-3-4-3"
+       style="stroke-width:0.264583"
+       d="m 40,87.999997 h 4 v 4 h -4 z" />
+    <path
+       id="rect2-7-8-5-3"
+       style="stroke-width:0.264583"
+       d="M 40.000001,91.999997 H 44 v 4 h -3.999999 z" />
+    <path
+       id="rect2-2-7-5-4"
+       style="stroke-width:0.264583"
+       d="M 28.000001,91.999997 H 32 v 4 h -3.999999 z" />
+    <path
+       id="rect2-16-4-17-1"
+       style="stroke-width:0.264583"
+       d="m 32.000001,83.999997 h 4 v 4 h -4 z" />
+    <path
+       id="rect2-6-2-1-1"
+       style="stroke-width:0.264583"
+       d="m 36,83.999998 h 4 v 4 h -4 z" />
+    <path
+       id="rect2-27-7-1-3"
+       style="stroke-width:0.264583"
+       d="m 28,83.999997 h 3.999999 v 4 H 28 Z" />
+    <path
+       id="rect2-3-7-5-8"
+       style="stroke-width:0.264583"
+       d="M 28.000001,95.999997 H 32 V 100 h -3.999999 z" />
+    <path
+       id="rect2-3-7-9-2-7"
+       style="stroke-width:0.264583"
+       d="m 28.000002,79.999998 h 3.999999 v 4 h -3.999999 z" />
+    <path
+       id="rect2-3-7-0-7-4"
+       style="stroke-width:0.264583"
+       d="m 28.000002,75.999999 h 3.999999 v 4 h -3.999999 z" />
+    <path
+       id="rect2-2-7-9-8-02-1-2"
+       style="stroke-width:0.264583"
+       d="m 40.000002,83.999998 h 3.999999 v 4 h -3.999999 z" />
+    <path
+       id="rect2-7-8-5-2-7"
+       style="stroke-width:0.264583"
+       d="m 40,75.999996 h 3.999999 v 4.000003 H 40 Z" />
+    <path
+       id="rect2-7-8-5-8-7"
+       style="stroke-width:0.264583"
+       d="M 40.000001,79.999997 H 44 v 4 h -3.999999 z" />
+    <path
+       id="rect2-7-8-5-1-9"
+       style="stroke-width:0.264583"
+       d="m 36,71.905287 h 4 v 4 h -4 z" />
+    <path
+       id="rect2-7-8-5-3-8"
+       style="stroke-width:0.264583"
+       d="m 32.000002,95.999996 h 3.999999 v 4 h -3.999999 z" />
+    <path
+       id="rect2-7-8-5-3-2"
+       style="stroke-width:0.264583"
+       d="m 36.000002,95.999996 h 3.999999 v 4 h -3.999999 z" />
+    <path
+       id="rect2-34-8-3-0"
+       style="stroke-width:0.264583"
+       d="m 47.999999,87.999996 h 4 v 4 h -4 z" />
+    <path
+       id="rect2-5-1-2-2-0"
+       style="stroke-width:0.264583"
+       d="m 51.999997,71.999998 h 3.999999 v 4 h -3.999999 z" />
+    <path
+       id="rect2-7-8-5-3-6"
+       style="stroke-width:0.264583"
+       d="m 59.999999,95.999997 h 3.999999 v 4 h -3.999999 z" />
+    <path
+       id="rect2-2-7-5-4-1"
+       style="stroke-width:0.264583"
+       d="m 48,91.999997 h 3.999999 v 4 H 48 Z" />
+    <path
+       id="rect2-27-7-1-3-9"
+       style="stroke-width:0.264583"
+       d="m 47.999999,83.999997 h 3.999999 v 4 h -3.999999 z" />
+    <path
+       id="rect2-3-7-9-2-7-4"
+       style="stroke-width:0.264583"
+       d="M 48.000001,79.999998 H 52 v 4 h -3.999999 z" />
+    <path
+       id="rect2-3-7-0-7-4-4"
+       style="stroke-width:0.264583"
+       d="M 48.000001,75.999999 H 52 v 4 h -3.999999 z" />
+    <path
+       id="rect2-7-8-5-2-7-0"
+       style="stroke-width:0.264583"
+       d="M 60.000001,71.999994 H 64 v 4.000003 h -3.999999 z" />
+    <path
+       id="rect2-7-8-5-1-9-6"
+       style="stroke-width:0.264583"
+       d="m 55.999999,71.905287 h 4 v 4 h -4 z" />
+    <path
+       id="rect2-7-8-5-3-8-1"
+       style="stroke-width:0.264583"
+       d="M 52.000001,95.999996 H 56 v 4 h -3.999999 z" />
+    <path
+       id="rect2-7-8-5-3-2-8"
+       style="stroke-width:0.264583"
+       d="M 56.000001,95.999996 H 60 v 4 h -3.999999 z" />
   </g>
 </svg>
